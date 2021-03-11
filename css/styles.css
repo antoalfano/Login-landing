@@ -26,3 +26,19 @@ p{
     width: 300px;
     height: 40px;
 }
+
+button{
+    background-color: black;
+    color: white;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 1em;
+    width: 310px;
+    margin-top: 20px;
+}
+
+h1{
+    margin-left: auto;
+    margin-right: auto;
+}

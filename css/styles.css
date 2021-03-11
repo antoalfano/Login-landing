@@ -42,3 +42,12 @@ h1{
     margin-left: auto;
     margin-right: auto;
 }
+
+.btn2{
+    background-color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}

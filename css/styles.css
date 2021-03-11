@@ -1,0 +1,15 @@
+img{
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+.cuadro{
+    border: 2px solid grey;
+    width: 400px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
